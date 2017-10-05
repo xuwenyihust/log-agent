@@ -1,3 +1,5 @@
+[![Travis](https://travis-ci.org/xuwenyihust/log-agent.svg?branch=master)](https://travis-ci.org/xuwenyihust/log-agent)
+
 # log-agent
 **Log collect, transform & deliver**
 
