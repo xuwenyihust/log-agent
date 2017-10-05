@@ -1,3 +1,6 @@
+[![Travis](https://travis-ci.org/xuwenyihust/log-agent.svg?branch=master)](https://travis-ci.org/xuwenyihust/log-agent)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/xuwenyihust/log-agent/blob/master/LICENSE)
+
 # log-agent
 **Log collect, transform & deliver**
 
