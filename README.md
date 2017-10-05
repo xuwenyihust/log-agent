@@ -1,5 +1,5 @@
 # log-agent
-**Log collect, transform & send**
+**Log collect, transform & deliver**
 
 Collect logs from multiple sources, transform them, and send to Kafka.
 
@@ -16,6 +16,6 @@ Collect logs in different formats from multiple sources.
 * Handle the traffic burst
 
 
-## Send
+## Deliver
 
 Output logs to Apache Kafka
